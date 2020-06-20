@@ -1,4 +1,4 @@
-# CPP-CommunityDiscussion
+# CPP - Community Discussion
 
 This repository contains code explained in C++ community discussion which are organized on each Satarday.
 
