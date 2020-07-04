@@ -11,7 +11,7 @@ As this is just a start, we are encouraging people to speak up on any C++ basic 
 This is a good place to show up your skills as there is no judge. If you have any issue, you can discuss in the forum. You can collaborate with others for any project you want to work.
 
 I welcome everyone to join our community and
-"Let's learn together".
+"Let's learn C++ together".
 
 Registration link: https://forms.gle/BFMG3GPgVnEzv6vj9
 
